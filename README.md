@@ -49,7 +49,7 @@ This can be thought as the input folder where all the traces of the electrical a
 
 **Austrian traces**: coffeemachine, dishwasher, fan, fridge, gaming PC, hairdryer, heater, hot_air_gun, iron, lamp, laptop, microwave, mini_oven, monitor, printer, radio, router, TV, washingmachine, watercooker, 
 
-**Greek traces**:  ac, AC_Heart, DR_HEART, dryer, dw, DW_Heart, FR_Heart, wm, WM_Heart
+**Greek traces**: DR_HEART, dryer, dw, DW_Heart, FR_Heart, wm, WM_Heart
 
 ### Target folder
 
