@@ -1,4 +1,4 @@
-# Heart-SynD
+# Heart-Synd
 
 ## Introduction
 **Heart-SynD** is an alternated version of **SynD**, a framework for synthetic data generation for Non Intrusive Load Monitoring applications. The original version of SynD was created by Christoph Klemenjak in 2020. More details can be found in the original [Git repo](https://github.com/klemenjak/SynD) and the [corresponding publication](https://www.nature.com/articles/s41597-020-0434-6#citeas).
